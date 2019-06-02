@@ -1,0 +1,33 @@
+{
+  "add": {
+    "free": "Free",
+    "name": "Nome",
+    "options": "Opções",
+    "title": "Adicionar Cartela",
+    "error": {
+      "not25": "Precisa informar os 25 números",
+      "not24": "Precisa informar os 24 números (+free)",
+      "name": "Nome é obrigatório"
+    }
+  },
+  "card": "Cartela",
+  "home": {
+    "title": "Gerenciador de Bingo"
+  },
+  "cta": {
+    "back": "Voltar",
+    "cancel": "Cancelar",
+    "confirm": "Confirmar",
+    "remove": "Remover",
+    "save": "Salvar"
+  },
+  "confirm": {
+    "title": "Confirmar",
+    "body": "Tem certeza?"
+  },
+  "sideMenu": {
+    "reset": "Reiniciar jogo",
+    "removeAll": "Remover todas cartelas",
+    "close": "Fechar"
+  }
+}

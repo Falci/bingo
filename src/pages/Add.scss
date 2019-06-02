@@ -1,0 +1,13 @@
+.Add {
+  overflow-y: scroll;
+
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+
+    .row {
+      margin-bottom: 10px;
+    }
+  }
+}

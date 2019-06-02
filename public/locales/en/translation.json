@@ -1,0 +1,33 @@
+{
+  "add": {
+    "free": "Free",
+    "name": "Name",
+    "options": "Options",
+    "title": "Add Card",
+    "error": {
+      "not25": "Need to chose 25 numbers",
+      "not24": "Need to chose 24 numbers (+free)",
+      "name": "Name is required"
+    }
+  },
+  "card": "Card",
+  "home": {
+    "title": "Bingo Manager"
+  },
+  "cta": {
+    "back": "Back",
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "remove": "Remove",
+    "save": "Save"
+  },
+  "confirm": {
+    "title": "Confirm",
+    "body": "Are you sure?"
+  },
+  "sideMenu": {
+    "reset": "Reset game",
+    "removeAll": "Remove all cards",
+    "close": "Close"
+  }
+}

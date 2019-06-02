@@ -1,0 +1,18 @@
+.panel {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  height: 300px;
+  border-top: 1px solid gray;
+  border-left: 1px solid gray;
+
+  .number {
+    height: 29.9px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 1px solid gray;
+    border-right: 1px solid gray;
+    cursor: pointer;
+  }
+}

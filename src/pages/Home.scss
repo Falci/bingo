@@ -1,0 +1,10 @@
+.Home {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding-bottom: 10px;
+
+  .ListCards {
+    flex-basis: 100%
+  }
+}
